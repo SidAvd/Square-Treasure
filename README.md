@@ -20,3 +20,5 @@ Finishing a game:
 # How to run the game on your device
 Install Expo Go app in your device (android or iOS). Using Expo Go scan the QR code and
 play the game.
+
+![board_end](<assets/square-treasure-qr.png>)
