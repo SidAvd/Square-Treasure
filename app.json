@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Square Treasure",
+    "slug": "square-treasure",
+    "description": "Follow the path and find the treasure!",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Diamond_1.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Diamond_2.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc118e8b-7980-43ef-822a-16fecaabe8c4"
+      }
+    },
+    "owner": "squareorg",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fc118e8b-7980-43ef-822a-16fecaabe8c4"
+    }
+  }
+}
