@@ -9,6 +9,7 @@ which hides in one of the squares with as few moves as possible. Each square rev
 far from the diamond is when pressed. If it is further than three squares it gives no 
 information and shows a questionmark. The interface shows the number of moves in each given
 time and also contains a restart button.
+
 Starting a game:
 
 ![board_empty](<assets/board-empty.png>)
