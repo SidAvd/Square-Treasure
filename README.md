@@ -1,5 +1,6 @@
 # Square Treasure - React Native
 Square Treasure is a minsweeper-inspired game for android and iOS, made in React Native.
+
 ![react_native](<assets/rn.png>)
 
 # Game Rules - Functionality
@@ -9,9 +10,11 @@ far from the diamond is when pressed. If it is further than three squares it giv
 information and shows a questionmark. The interface shows the number of moves in each given
 time and also contains a restart button.
 Starting a game:
+
 ![board_empty](<assets/board-empty.jpg>)
 
 Finishing a game:
+
 ![board_end](<assets/board-end.jpg>)
 
 # How to run the game on your device
