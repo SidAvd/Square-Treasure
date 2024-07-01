@@ -14,7 +14,7 @@ Starting a game:
 
 ![board_empty](<assets/board-empty.png>)
 
-Finishing a game:
+Winning a game:
 
 ![board_end](<assets/board-end.png>)
 
